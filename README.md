@@ -1,6 +1,6 @@
 # Supermarket Sales Dataset
 
-## Case Study. 
+## Case Study 
 
 Solving real world tasks using Python Pandas & Python Mathplotlib to analyze and answer questions about 3 months worth of sales data. The data contains information about different product lines, sales quantities, unit prices, customer types, payment methods, etc.
 
